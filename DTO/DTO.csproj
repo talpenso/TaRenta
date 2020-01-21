@@ -41,7 +41,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DTOBranch.cs" />
+    <Compile Include="DTOCar.cs" />
     <Compile Include="DtoCarType.cs" />
+    <Compile Include="DTORental.cs" />
+    <Compile Include="DTOUser.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
