@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CarRental
 {
-    class DTOUser
+    public class DTOUser
     {
         public int UserId { get; set; }
         public string FirstName { get; set; }

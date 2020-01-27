@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CarRental
 {
-    class DTORental
+    public class DTORental
     {
         public int RentId { get; set; }
         public DateTime StartDate { get; set; }

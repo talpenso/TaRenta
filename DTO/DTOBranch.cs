@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CarRental
 {
-    class DTOBranch
+    public class DTOBranch
     {
         public int BranchId { get; set; }
         public string BranchName{ get; set; }

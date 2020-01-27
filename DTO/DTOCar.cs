@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CarRental
 {
-    class DTOCar
+    public class DTOCar
     {
         public int CarNumber { get; set; }
         public int CarTypeId { get; set; }
