@@ -1,0 +1,2 @@
+C:\DevTest\TaRenta\TaRenta\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\DevTest\TaRenta\TaRenta\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache

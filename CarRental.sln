@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "CarRental\DAL.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTO", "DTO\DTO.csproj", "{FB43DE5E-5571-4C04-9817-7FFB84BA8CB6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{B7BDBC7B-171C-4F89-A467-8F88F7DDAB2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaRentaAPI", "TaRentaAPI\TaRentaAPI.csproj", "{97C976EA-D372-442C-A298-6FB9A1A51CC2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{FB43DE5E-5571-4C04-9817-7FFB84BA8CB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB43DE5E-5571-4C04-9817-7FFB84BA8CB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB43DE5E-5571-4C04-9817-7FFB84BA8CB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7BDBC7B-171C-4F89-A467-8F88F7DDAB2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7BDBC7B-171C-4F89-A467-8F88F7DDAB2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7BDBC7B-171C-4F89-A467-8F88F7DDAB2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7BDBC7B-171C-4F89-A467-8F88F7DDAB2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97C976EA-D372-442C-A298-6FB9A1A51CC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97C976EA-D372-442C-A298-6FB9A1A51CC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97C976EA-D372-442C-A298-6FB9A1A51CC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97C976EA-D372-442C-A298-6FB9A1A51CC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
